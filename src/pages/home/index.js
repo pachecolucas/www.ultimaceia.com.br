@@ -1,6 +1,6 @@
 import React from "react";
-import Fundo from "../../components/Fundo";
+import Quadro from "../../components/Quadro";
 
 export default function index() {
-  return <Fundo />;
+  return <Quadro />;
 }
